@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wcf-Medical", "Wcf-Medical\Wcf-Medical.csproj", "{0040AD7D-3BB5-443C-9101-FAA725F7FB54}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{1C82725D-2935-451E-80C5-6595C9BDF0BD}"
@@ -8,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{56DBFD9A-6D18-4519-8BC1-3A579D880951}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dbo", "Dbo\Dbo.csproj", "{E251EA27-0BE8-46DF-9E11-5F86E2402E84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF-Interface", "WPF-Interface\WPF-Interface.csproj", "{A797CBE9-439C-4882-8304-970BDD63EB82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,6 +63,18 @@ Global
 		{E251EA27-0BE8-46DF-9E11-5F86E2402E84}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{E251EA27-0BE8-46DF-9E11-5F86E2402E84}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{E251EA27-0BE8-46DF-9E11-5F86E2402E84}.Release|x86.ActiveCfg = Release|Any CPU
+		{A797CBE9-439C-4882-8304-970BDD63EB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A797CBE9-439C-4882-8304-970BDD63EB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A797CBE9-439C-4882-8304-970BDD63EB82}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{A797CBE9-439C-4882-8304-970BDD63EB82}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{A797CBE9-439C-4882-8304-970BDD63EB82}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A797CBE9-439C-4882-8304-970BDD63EB82}.Debug|x86.Build.0 = Debug|Any CPU
+		{A797CBE9-439C-4882-8304-970BDD63EB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A797CBE9-439C-4882-8304-970BDD63EB82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A797CBE9-439C-4882-8304-970BDD63EB82}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{A797CBE9-439C-4882-8304-970BDD63EB82}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{A797CBE9-439C-4882-8304-970BDD63EB82}.Release|x86.ActiveCfg = Release|Any CPU
+		{A797CBE9-439C-4882-8304-970BDD63EB82}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
